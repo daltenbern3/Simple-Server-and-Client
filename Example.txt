@@ -1,0 +1,21 @@
+Example Solution Outputs:
+weather request:
+./client.out localhost -w Nashville
+server response:
+'Snowing and 25'
+client output:
+'The weather in Nashville is Snowing and 25'
+
+time request:
+./client.out localhost -t Nashville
+server response:
+'15:34'
+client output:
+'The time in Nashville is 15:34'
+
+weather request 2:
+./client.out localhost -w Nashville
+server response:
+'Sunny and 75'
+client output:
+'The weather in Nashville is Sunny and 75'

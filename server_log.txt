@@ -1,0 +1,15 @@
+Got connection from 127.0.0.1
+Recieved 'weather' from 127.0.0.1
+Sent 'Snowing and 25' to 127.0.0.1
+Ending connection with 127.0.0.1
+Got connection from 127.0.0.1
+Got connection from 127.0.0.1
+Recieved 'time' from 127.0.0.1
+Sent '15:34' to 127.0.0.1
+Ending connection with 127.0.0.1
+Got connection from 127.0.0.1
+Got connection from 127.0.0.1
+Got connection from 127.0.0.1
+Recieved 'weather' from 127.0.0.1
+Sent 'Sunny and 75' to 127.0.0.1
+Ending connection with 127.0.0.1
